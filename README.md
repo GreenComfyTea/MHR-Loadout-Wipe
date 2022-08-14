@@ -3,7 +3,8 @@
 Mod for Monster Hunter Rise that wipes all your equipment loadouts.
 If for some reason (cheating, for example) you messed up your loadouts and now when you try to open "Equipment Loadouts" menu the game crashed, you can use this mod to wipe all loadouts.
 
-![](![image](https://user-images.githubusercontent.com/30152047/184539406-20d1ae3b-f4fe-4fd9-b495-71ea349acd6d.png))
+![image](https://user-images.githubusercontent.com/30152047/184539453-c1ef09e7-8ed0-43b8-91f5-3d6ddb438ea9.png)
+
 
 # Links
 * **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/812)**  
