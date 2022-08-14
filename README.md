@@ -1,21 +1,22 @@
-# "Better Matchmaking" Mod for Monster Hunter: Rise
+# "Loadout Wip" Mod for Monster Hunter: Rise
 
-Mod for Monster Hunter Rise that fixed Region Lock and improves matchmaking experience. 
+Mod for Monster Hunter Rise that wipes all your equipment loadouts.
+If for some reason (cheating, for example) you messed up your loadouts and now when you try to open "Equipment Loadouts" menu the game crashed, you can use this mod to wipe all loadouts.
 
-![](https://user-images.githubusercontent.com/30152047/183247427-c71bf991-6910-4801-97c0-5e7a537305e7.png)
+![](![image](https://user-images.githubusercontent.com/30152047/184539406-20d1ae3b-f4fe-4fd9-b495-71ea349acd6d.png))
 
 # Links
-* **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1044)**  
+* **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/812)**  
 
 # Requirements
-1. [LATEST REFRAMEWORK NIGHTLY BUILD](https://github.com/praydog/REFramework-nightly/releases);
-2. [Optional] [Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292) (v1.6 or above).
+1. [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26);
+2. [Optional] [Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292) (v1.6.8 or above).
 
 # How to install:
 1. Install [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26);
 1. [Optional] Install [[Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292);
 3. Download the mod:
-    * Official release can be downloaded from [Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/1044);
+    * Official release can be downloaded from [Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/812);
     * Nightly builds are available in [this repo](https://github.com/GreenComfyTea/MHR-Better-Matchmaking) and can contain broken functionality, debugging info on screen, bugs and might require the latest [nightly build](https://github.com/praydog/REFramework-nightly/releases) of [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26). Use with caution!
 4. Extract the mod from the archive and place it in MonsterHunterRise folder.
 
