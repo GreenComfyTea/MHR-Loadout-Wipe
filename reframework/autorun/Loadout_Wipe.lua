@@ -2,6 +2,7 @@ local status = "Waiting..."
 local empty_loadout_name = "― ― ― ― ―";
 
 local mod_name = "Loadout Wipe";
+local version = "2.0";
 
 local equip_data_manager_type = sdk.find_type_definition("snow.data.EquipDataManager");
 local get_player_equip_my_set_list_method = equip_data_manager_type:get_method("get_PlEquipMySetList");
@@ -81,7 +82,7 @@ local function draw_native()
 
 	mod_menu.Label("Created by: <COL RED>GreenComfyTea</COL>", "",
 		"Donate: <COL RED>https://streamelements.com/greencomfytea/tip</COL>\nBuy me a tea: <COL RED>https://ko-fi.com/greencomfytea</COL>\nSometimes I stream: <COL RED>twitch.tv/greencomfytea</COL>");
-		mod_menu.Label("Version: <COL RED>2.0</COL>", "",
+		mod_menu.Label("Version: <COL RED>" .. version .. "</COL>", "",
 		"Donate: <COL RED>https://streamelements.com/greencomfytea/tip</COL>\nBuy me a tea: <COL RED>https://ko-fi.com/greencomfytea</COL>\nSometimes I stream: <COL RED>twitch.tv/greencomfytea</COL>");
 
 
