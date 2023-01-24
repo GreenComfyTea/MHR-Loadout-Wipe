@@ -10,7 +10,7 @@ If for some reason (cheating, for example) you messed up your loadouts and now w
 * **[Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/812)**  
 
 # Requirements
-1. [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26) (v1.3.4 or above);
+1. [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26) (v1.3.7 or above);
 2. [Optional] [Custom In-Game Mod Menu API](https://www.nexusmods.com/monsterhunterrise/mods/1292) (v1.7 or above).
 
 # How to install:
