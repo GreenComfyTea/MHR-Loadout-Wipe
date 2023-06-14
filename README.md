@@ -46,13 +46,13 @@
 	<br>
 	<br>
 	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/mhr-loadout-wipe?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/mhr-loadout-wipe?logo=git-commit" />
 	</a>
 	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/commits/main">
 		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/mhr-loadout-wipe/latest?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/mhr-loadout-wipe?logo=git-commit" />
 	</a>
 	<br>
 	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/graphs/commit-activity">
