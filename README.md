@@ -45,28 +45,6 @@
 	</a>
 	<br>
 	<br>
-	<a href="">
-		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/mhr-loadout-wipe?logo=database" />
-	</a>
-	<a href="">
-		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/greencomfytea/mhr-loadout-wipe/goto?logo=git-compare" />
-	</a>
-	<a href="https://github.com/sponsors/greencomfytea">
-		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
-	</a>
-	<a href="https://github.com/GreenComfyTea/mhr-loadout-wipe/watchers">
-		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/mhr-loadout-wipe?logo=eye" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/forks">
-		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/mhr-loadout-wipe?logo=repo-forked" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/stargazers">
-		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/mhr-loadout-wipe?logo=star" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/graphs/traffic">
-		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/mhr-loadout-wipe.json?color=blue&logo=eye" />
-	</a>
-	<br>
 	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/mhr-loadout-wipe?logo=git-commit" />
 	</a>
@@ -85,6 +63,33 @@
 	</a>
 	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/graphs/commit-activity">
 		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/mhr-loadout-wipe?logo=pulse" />
+	</a>
+	<br>
+	<br>
+	<a href="">
+		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/mhr-loadout-wipe?logo=database" />
+	</a>
+	<a href="">
+		<img alt="Line Count" src="https://sloc.xyz/github/greencomfytea/duplicate-emote-check-tool" />
+	</a>
+	<a href="">
+		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/greencomfytea/mhr-loadout-wipe/goto?logo=git-compare" />
+	</a>
+	<br>
+	<a href="https://github.com/sponsors/greencomfytea">
+		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
+	</a>
+	<a href="https://github.com/GreenComfyTea/mhr-loadout-wipe/watchers">
+		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/mhr-loadout-wipe?logo=eye" />
+	</a>
+	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/forks">
+		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/mhr-loadout-wipe?logo=repo-forked" />
+	</a>
+	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/stargazers">
+		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/mhr-loadout-wipe?logo=star" />
+	</a>
+	<a href="https://github.com/greencomfytea/mhr-loadout-wipe/graphs/traffic">
+		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/mhr-loadout-wipe.json?color=blue&logo=eye" />
 	</a>
 	<br>
 	<br>
